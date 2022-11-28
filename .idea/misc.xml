@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/drawable/corner_color.xml" value="0.1405" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/drawable/mobi_corner_color.xml" value="0.149" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/drawable/ucell_corner_color.xml" value="0.149" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/drawable/uzmobile_corner_color.xml" value="0.149" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/drawable/xumans_corner_color.xml" value="0.149" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/layout/activity_main.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/layout/fragment_humans.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/layout/fragment_info.xml" value="0.21" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/layout/fragment_mobi.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/layout/fragment_ucell.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/layout/fragment_uzmobile.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/layout/item_info.xml" value="0.15" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/layout/item_info_rv.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/USSDKodlari2022/app/src/main/res/layout/mobi_corner_color.xml" value="0.1675929884566054" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

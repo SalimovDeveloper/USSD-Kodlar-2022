@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_navigation"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/mobiFragment"
+        android:name="uz.programmer710.ussdkodlari2022.MobiFragment"
+        android:label="fragment_mobi"
+        tools:layout="@layout/fragment_mobi" >
+        <action
+            android:id="@+id/action_mobiFragment_to_infoFragment"
+            app:destination="@id/infoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/uzmobileFragment"
+        android:name="uz.programmer710.ussdkodlari2022.UzmobileFragment"
+        android:label="fragment_uzmobile"
+        tools:layout="@layout/fragment_uzmobile" >
+        <action
+            android:id="@+id/action_uzmobileFragment_to_infoFragment"
+            app:destination="@id/infoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ucellFragment"
+        android:name="uz.programmer710.ussdkodlari2022.UcellFragment"
+        android:label="fragment_ucell"
+        tools:layout="@layout/fragment_ucell" >
+        <action
+            android:id="@+id/action_ucellFragment_to_infoFragment"
+            app:destination="@id/infoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/humansFragment"
+        android:name="uz.programmer710.ussdkodlari2022.HumansFragment"
+        android:label="fragment_humans"
+        tools:layout="@layout/fragment_humans" >
+        <action
+            android:id="@+id/action_humansFragment_to_infoFragment"
+            app:destination="@id/infoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="uz.programmer710.ussdkodlari2022.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_mobiFragment"
+            app:destination="@id/mobiFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_ucellFragment"
+            app:destination="@id/ucellFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_uzmobileFragment"
+            app:destination="@id/uzmobileFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_humansFragment"
+            app:destination="@id/humansFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_infoFragment"
+            app:destination="@id/infoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/infoFragment"
+        android:name="uz.programmer710.ussdkodlari2022.InfoFragment"
+        android:label="fragment_info"
+        tools:layout="@layout/fragment_info" />
+</navigation>

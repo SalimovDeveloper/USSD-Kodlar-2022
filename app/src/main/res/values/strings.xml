@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">USSD Kodlari 2022</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="beeline_uz">Beeline uz</string>
+    <string name="internet_paketlar">Internet Paketlar</string>
+    <string name="tariflar">Tariflar</string>
+    <string name="daqiqa_paketlar">Daqiqa paketlar</string>
+    <string name="aksiya_va_yangiliklar">Aksiya va Yangiliklar</string>
+    <string name="sms_paketlari">SMS paketlari</string>
+    <string name="ussd_kodlar_va_n_xizmatlar">USSD Kodlar va \n Xizmatlar</string>
+    <string name="uzmobile">Uzmobile</string>
+    <string name="tarif_rejalari">Tarif rejalari</string>
+    <string name="sms_to_plamlar">Sms to\'plamlar</string>
+    <string name="operator">Operator</string>
+    <string name="balans">Balans</string>
+</resources>
